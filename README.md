@@ -54,8 +54,8 @@ Currently working with modern web/mobile frameworks and planning to explore AI &
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abduladhil&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduladhil&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdul-adhil-k&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-adhil-k&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
